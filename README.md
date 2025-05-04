@@ -16,11 +16,11 @@
 The dataset contains 87,000 samples. There are a total of 29 classes, including the letters A to Z and gestures for "space", "delete", "Nothing". Details can be viewed using this link (https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
 # Requirements
-Python 3.8
-PyTorch 1.12
-Torchvision
-MatplotLib
-Scikit Learn
-Numpy 
-Pandas
-GPU access
+- Python 3.8
+- PyTorch 1.12
+- Torchvision
+- MatplotLib
+- Scikit Learn
+- Numpy 
+- Pandas
+- GPU access
