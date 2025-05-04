@@ -1,4 +1,4 @@
-# ee541_final_project
+# EE 541 Final Project
 
 # CV for American Sign Language
 
